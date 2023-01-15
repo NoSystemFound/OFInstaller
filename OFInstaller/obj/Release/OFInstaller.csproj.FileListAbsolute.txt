@@ -1,0 +1,44 @@
+C:\Users\HyperWin\source\repos\OFInstaller\OFInstaller\bin\Release\OSExtensions.dll
+C:\Users\HyperWin\source\repos\OFInstaller\OFInstaller\bin\Release\x86\KernelTraceControl.dll
+C:\Users\HyperWin\source\repos\OFInstaller\OFInstaller\bin\Release\x86\KernelTraceControl.Win61.dll
+C:\Users\HyperWin\source\repos\OFInstaller\OFInstaller\bin\Release\x86\msdia140.dll
+C:\Users\HyperWin\source\repos\OFInstaller\OFInstaller\bin\Release\x86\msvcp140.dll
+C:\Users\HyperWin\source\repos\OFInstaller\OFInstaller\bin\Release\x86\vcruntime140.dll
+C:\Users\HyperWin\source\repos\OFInstaller\OFInstaller\bin\Release\amd64\KernelTraceControl.dll
+C:\Users\HyperWin\source\repos\OFInstaller\OFInstaller\bin\Release\amd64\msdia140.dll
+C:\Users\HyperWin\source\repos\OFInstaller\OFInstaller\bin\Release\amd64\msvcp140.dll
+C:\Users\HyperWin\source\repos\OFInstaller\OFInstaller\bin\Release\amd64\vcruntime140.dll
+C:\Users\HyperWin\source\repos\OFInstaller\OFInstaller\bin\Release\amd64\vcruntime140_1.dll
+C:\Users\HyperWin\source\repos\OFInstaller\OFInstaller\bin\Release\arm64\KernelTraceControl.dll
+C:\Users\HyperWin\source\repos\OFInstaller\OFInstaller\bin\Release\arm64\msdia140.dll
+C:\Users\HyperWin\source\repos\OFInstaller\OFInstaller\bin\Release\arm64\msvcp140.dll
+C:\Users\HyperWin\source\repos\OFInstaller\OFInstaller\bin\Release\arm64\vcruntime140.dll
+C:\Users\HyperWin\source\repos\OFInstaller\OFInstaller\bin\Release\arm64\vcruntime140_1.dll
+C:\Users\HyperWin\source\repos\OFInstaller\OFInstaller\bin\Release\TraceReloggerLib.dll
+C:\Users\HyperWin\source\repos\OFInstaller\OFInstaller\bin\Release\Dia2Lib.dll
+C:\Users\HyperWin\source\repos\OFInstaller\OFInstaller\bin\Release\OFInstaller 1.1.exe.config
+C:\Users\HyperWin\source\repos\OFInstaller\OFInstaller\bin\Release\OFInstaller 1.1.exe
+C:\Users\HyperWin\source\repos\OFInstaller\OFInstaller\bin\Release\OFInstaller 1.1.pdb
+C:\Users\HyperWin\source\repos\OFInstaller\OFInstaller\bin\Release\Microsoft.Diagnostics.FastSerialization.dll
+C:\Users\HyperWin\source\repos\OFInstaller\OFInstaller\bin\Release\Microsoft.Diagnostics.Tracing.TraceEvent.dll
+C:\Users\HyperWin\source\repos\OFInstaller\OFInstaller\bin\Release\Microsoft.WindowsAPICodePack.Shell.dll
+C:\Users\HyperWin\source\repos\OFInstaller\OFInstaller\bin\Release\Microsoft.WindowsAPICodePack.ShellExtensions.dll
+C:\Users\HyperWin\source\repos\OFInstaller\OFInstaller\bin\Release\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\HyperWin\source\repos\OFInstaller\OFInstaller\bin\Release\Microsoft.Diagnostics.FastSerialization.xml
+C:\Users\HyperWin\source\repos\OFInstaller\OFInstaller\bin\Release\Microsoft.Diagnostics.Tracing.TraceEvent.xml
+C:\Users\HyperWin\source\repos\OFInstaller\OFInstaller\bin\Release\Microsoft.WindowsAPICodePack.ShellExtensions.pdb
+C:\Users\HyperWin\source\repos\OFInstaller\OFInstaller\bin\Release\Microsoft.WindowsAPICodePack.ShellExtensions.xml
+C:\Users\HyperWin\source\repos\OFInstaller\OFInstaller\bin\Release\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\HyperWin\source\repos\OFInstaller\OFInstaller\obj\Release\OFInstaller.csproj.AssemblyReference.cache
+C:\Users\HyperWin\source\repos\OFInstaller\OFInstaller\obj\Release\OFInstaller.csproj.SuggestedBindingRedirects.cache
+C:\Users\HyperWin\source\repos\OFInstaller\OFInstaller\obj\Release\OFInstaller.configurator.resources
+C:\Users\HyperWin\source\repos\OFInstaller\OFInstaller\obj\Release\OFInstaller.OFInstaller.resources
+C:\Users\HyperWin\source\repos\OFInstaller\OFInstaller\obj\Release\OFInstaller.Properties.Resources.resources
+C:\Users\HyperWin\source\repos\OFInstaller\OFInstaller\obj\Release\OFInstaller.csproj.GenerateResource.cache
+C:\Users\HyperWin\source\repos\OFInstaller\OFInstaller\obj\Release\OFInstaller.csproj.CoreCompileInputs.cache
+C:\Users\HyperWin\source\repos\OFInstaller\OFInstaller\obj\Release\OFInstaller.csproj.CopyComplete
+C:\Users\HyperWin\source\repos\OFInstaller\OFInstaller\obj\Release\OFInstaller 1.1.exe
+C:\Users\HyperWin\source\repos\OFInstaller\OFInstaller\obj\Release\OFInstaller 1.1.pdb
+C:\Users\HyperWin\source\repos\OFInstaller\OFInstaller\bin\Release\Microsoft.WindowsAPICodePack.dll
+C:\Users\HyperWin\source\repos\OFInstaller\OFInstaller\bin\Release\Microsoft.WindowsAPICodePack.pdb
+C:\Users\HyperWin\source\repos\OFInstaller\OFInstaller\bin\Release\Microsoft.WindowsAPICodePack.xml
